@@ -1,5 +1,3 @@
-# Opticks - Work in progress
-
 ## Overview
 
 ![Screenshot 2024-12-14 050221.png](https://cdn.dorahacks.io/static/files/193c1d48d95f55d0846455e49db8e26d.png)
